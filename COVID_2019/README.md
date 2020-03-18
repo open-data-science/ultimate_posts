@@ -32,13 +32,17 @@ There are some projects, in which any dear reader can take part. It even might b
 ### folding@home coronavirus-specific projects
 
 What: Donate your GPU power to help researchers develop drug against COVID-2019
+
 Status: active
+
 Link: https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/
 
 ### Building CT scan pneumonia detector
 
 What: CT scan pneumonia detector
+
 Status: Active, besides, you can always create a fork ;)
+
 Link: https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR
 
 ## Good notes and tips on everything related to remote work and culture
