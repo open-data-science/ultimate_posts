@@ -11,6 +11,19 @@ We followed some rules, which we find adequate and which are based on the common
 3. Biases and distributions should be taken into account: raw information is not that representative and can misguide opinions.
 4. If appliable, information should be actionable — readers should get a clear picture of what they can do after reading it, not just get upset or worried.
 
+## Learning and enlightning others
+
+### Interactive article on how virus spreads
+
+Kevin Simler's outbreak interactive demo shows and teaches from the case of single person how virus spreads.
+
+Project website: https://www.meltingasphalt.com/interactive/outbreak/
+Github, node: https://github.com/kevinsimler/outbreak
+
+
+### Washington Post's article with demo
+
+Link: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 ## Projects you can take part in:
 
