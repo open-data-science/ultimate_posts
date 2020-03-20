@@ -13,17 +13,32 @@ We followed some rules, which we find adequate and which are based on the common
 
 ## Learning and enlightning others
 
+### Vox's article covering basics on coronavirus
+
+Link: [Vox](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine)
+
 ### Interactive article on how virus spreads
 
 Kevin Simler's outbreak interactive demo shows and teaches from the case of single person how virus spreads.
 
-Project website: https://www.meltingasphalt.com/interactive/outbreak/
-Github, node: https://github.com/kevinsimler/outbreak
-
+[Project website](https://www.meltingasphalt.com/interactive/outbreak/) 
+Link: [Github](https://github.com/kevinsimler/outbreak), Node JS 
 
 ### Washington Post's article with demo
 
-Link: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
+## Korean cluster's Reuter's inforgrafics
+
+Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
+
+## Pornhub's insights on traffic
+
+Link: [Page](https://www.pornhub.com/insights/corona-virus)
+
+## DmitrySerg's spread simulation project
+
+Link: [Project Github](https://github.com/DmitrySerg/COVID-19)
 
 ## Projects you can take part in:
 
@@ -33,36 +48,39 @@ There are some projects, in which any dear reader can take part. It even might b
 
 What: Donate your GPU power to help researchers develop drug against COVID-2019
 
-Status: active
+Link: [Discussion on Reddit](https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/)
 
-Link: https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/
+## CLI-tool for COVID related data retrieving
+
+Unified transcoding tool and cli for covid-19 related national and international datasets. You can help with the development or use it for you research.
+
+Link: [Github](https://github.com/ggbaro/covid-health-ita)
 
 ### Building CT scan pneumonia detector
 
-What: CT scan pneumonia detector
+What: CT scan / Xray pneumonia detector.
 
-Status: Active, besides, you can always create a fork ;)
+Note: CT scan detection might be ineffective for COVID detection, because pneumonia is rather late stage on which intensive care is already required.
 
-Link: https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR
+Project 1: [Github](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
+Project 2: [Github](https://github.com/ieee8023/covid-chestxray-dataset)
 
-## Good notes and tips on everything related to remote work and culture
 
-Some of us will spend some time working remotely. We all have different backgrounds and trivial information might be valuable for people just starting to work remotely.
+## Remote work
 
-Link: https://about.gitlab.com/company/culture/all-remote/guide/
+Some of us will spend more time working remotely. We all have different backgrounds and trivial information might be valuable for people just starting to work remotely.
+Remote work due to the quarantine or self-isolation may seem challenging at first, but there is nothing to be afraid of. We collected some articles and FAQs which will help to transit to remote mode.
 
+Links:
+* Bloomberg's [article](https://www.bloomberg.com/news/articles/2020-03-15/how-to-work-from-home-tips-on-staying-healthy-sane-productive) on remote work.
+* Great [guide](https://about.gitlab.com/company/culture/all-remote/guide/) from gitlab team.
+* Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
 
 
 
 ### Sources:
 
 
-## Peer submissions & github
-
-https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html 
-https://github.com/ggbaro/covid-health-ita
-https://github.com/ieee8023/covid-chestxray-dataset
-https://github.com/DmitrySerg/COVID-19
 
 ## General 
 
@@ -77,8 +95,7 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fullt
 https://www.livescience.com/new-coronavirus-compare-with-flu.html
 https://m.facebook.com/100000780957774/posts/2821974184505252/
 https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/
-https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine
-https://www.pornhub.com/insights/corona-virus
+
 https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
 
@@ -88,8 +105,3 @@ https://coronavirus.jhu.edu/map.html
 https://ourworldindata.org/coronavirus
 https://www.flattenthecurve.com
 
-
-## Remote work tips
-https://www.bloomberg.com/news/articles/2020-03-15/how-to-work-from-home-tips-on-staying-healthy-sane-productive
-https://a16z.com/2020/03/14/a16z-podcast-how-crypto-startup-school-went-remote/
-https://about.gitlab.com/company/culture/all-remote/guide/
