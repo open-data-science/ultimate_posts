@@ -24,6 +24,8 @@ Briefing:
 * There are 2 strategies exploited by governments: letting build 'herd immunity' by quarantining older people and restraining all population, to flatten the curve to fight healthcare system overload.
 * Other danger comes from panic and spread of misinformation (or censorship of that information by government): check for the fake news and trustworthness of the source.
 * There is probability that the humanity will be infected and build immunity.
+* Maps and sources of spread often do not take into account availability of tests ([why it matters](https://twitter.com/Bershidsky/status/1239488197719199744)) thus richer countries tend to have more diagnosed cases, thus, GDP correlation to cases per capita matters with 0.6 for Kendall and 0.8 for Spearman ([Post in russian](https://vk.com/wall66559_77852), [data](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200311-sitrep-51-covid-19.pdf) [sources](https://docs.google.com/spreadsheets/d/1nUny3LRZKxxaC0Q8XGIAaBlgd8kZAQysvLX0E93-Ens/edit#gid=0)).
+ 
 
 ### <a name="whoadvice"></a>WHO's advice for the public
 
