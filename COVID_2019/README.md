@@ -149,6 +149,7 @@ Links:
 * Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
 * Very practical guide about [Work/Life balance](https://wemake.services/meta/rsdp/work-life-balance) in remote work.
 * a16z Podcast: [How Crypto Startup School Went Remote - Andreessen Horowitz](https://a16z.com/2020/03/14/a16z-podcast-how-crypto-startup-school-went-remote/)
+* [Tips](https://www.cnbc.com/2020/03/20/coronavirus-tips-for-protecting-your-mental-health-during-quarantine.html) for safeguarding your mental health during quarantine. Vitamin D and daily sports are also recommended during quarantine.
 
 
 ## Dashboards, Maps, Aggregations, Noteworthy articles
