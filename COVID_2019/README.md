@@ -104,7 +104,7 @@ or you can do it with
 
 Link: [Post on Ipd](https://www.ipd.uw.edu/2020/02/rosettas-role-in-fighting-coronavirus/) and [discussion thread](https://boinc.bakerlab.org/rosetta/forum_thread.php?id=13533)
 
-## CLI-tool for COVID related data retrieving and datasets
+### CLI-tool for COVID related data retrieving and datasets
 
 Unified transcoding tool and cli for covid-19 related national and international datasets. You can help with the development or use it for you research.
 
