@@ -122,6 +122,9 @@ Links:
 * Great [guide](https://about.gitlab.com/company/culture/all-remote/guide/) from gitlab team.
 * Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
 * Very practical guide about [Work/Life balance](https://wemake.services/meta/rsdp/work-life-balance) in remote work.
+* [Tips](https://www.cnbc.com/2020/03/20/coronavirus-tips-for-protecting-your-mental-health-during-quarantine.html) for safeguarding your mental health during quarantine
+
+Vitamin D and daily sports are also recommended during quarantine.
 
 
 ## Dashboards, Maps, Aggregations, Noteworthy articles
