@@ -121,6 +121,7 @@ Links:
 * Bloomberg's [article](https://www.bloomberg.com/news/articles/2020-03-15/how-to-work-from-home-tips-on-staying-healthy-sane-productive) on remote work.
 * Great [guide](https://about.gitlab.com/company/culture/all-remote/guide/) from gitlab team.
 * Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
+* Very practical guide about [Work/Life balance](https://wemake.services/meta/rsdp/work-life-balance) in remote work.
 
 
 ## Dashboards, Maps, Aggregations, Noteworthy articles
