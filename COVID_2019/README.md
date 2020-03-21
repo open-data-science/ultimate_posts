@@ -38,9 +38,11 @@ WHO stands for World Health Organization and that's one organization you can tru
 * Practise respiratory hygiene: cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. [WHO Source](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 * Common thin face masks are not effective to protect from getting infected ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)). 
 
-#### Vox's article covering basics on coronavirus
+#### Articles and sites covering basics on coronavirus
 
-Link: [Vox](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine)
+- [Vox](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine)
+- [Here’s what coronavirus does to the body by NatGeo](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/)
+- [Flatternthecurve](https://www.flattenthecurve.com)
 
 ### Why exponential growth is so dangerous
 
@@ -78,14 +80,14 @@ Link: [Page](https://www.pornhub.com/insights/corona-virus)
 2. Stay inside, switch to remote work if possible.
 3 . Spread the word about the pandemia, share trustworthy information
 
-## What you can do (as data scientists and active community members):
+# So what you can do (as data scientists and active community members):
 
 Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
 
 
 ### Flatternthecurve
 
-This website is also community-driven, you can help in any way: verifiyng information or translating the content.
+Ultimate website is also community-driven, you can help in any way: verifiyng information or translating the content. This is very good entry point to get information about COVID-19 (US specific information mostly but anyway!)
 
 Website: [Link](https://www.flattenthecurve.com).
 Contribution guidelines: [github](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md).
@@ -96,11 +98,20 @@ What: Donate your GPU power to help researchers develop drug against COVID-2019
 
 Link: [Discussion on Reddit](https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/)
 
-## CLI-tool for COVID related data retrieving
+or you can do it with 
+
+### [boinc](http://boinc.bakerlab.org/) project on [rosseta@home](http://boinc.bakerlab.org/rosetta/)
+
+Link: [Post on Ipd](https://www.ipd.uw.edu/2020/02/rosettas-role-in-fighting-coronavirus/) and [discussion thread](https://boinc.bakerlab.org/rosetta/forum_thread.php?id=13533)
+
+## CLI-tool for COVID related data retrieving and datasets
 
 Unified transcoding tool and cli for covid-19 related national and international datasets. You can help with the development or use it for you research.
 
 Link: [Github](https://github.com/ggbaro/covid-health-ita)
+
+- [Johns Hopkins University dataset](https://github.com/CSSEGISandData/COVID-19)
+- [Alternative Crowd Sourced Dataset](https://github.com/open-covid-19/data) and its reddit [discussion](https://www.reddit.com/r/datascience/comments/fieuqo/open_covid19_dataset/)
 
 ### Building CT scan pneumonia detector
 
@@ -110,6 +121,21 @@ Note: CT scan detection might be ineffective for COVID detection, because pneumo
 
 Project 1: [Github](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 Project 2: [Github](https://github.com/ieee8023/covid-chestxray-dataset)
+
+### There is some datasets and competitions abouth COVID-19 on Kaggle
+
+You can do some competitions on kaggle 
+
+- [COVID-19 Complete Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+- [COVID-19 Alien Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+- [COVID-19 Global Forecasting from Kaggle](https://www.kaggle.com/c/covid19-global-forecasting-week-1/)
+- [COVID-19 Topic Modeling: Finding Related Articles Kernel](https://www.kaggle.com/danielwolffram/topic-modeling-finding-related-articles)
+
+[All related itmes on kaggle by covid19 tag](https://www.kaggle.com/tags/covid19)
+
+### If you did some work related on covid-19, don't be shy to use opportunity get free tools
+
+- [Free Gitkraken Pro](https://www.gitkraken.com/pro-for-a-cure), most popular and powerfull git GUI manager
 
 
 ## Remote work
@@ -122,21 +148,21 @@ Links:
 * Great [guide](https://about.gitlab.com/company/culture/all-remote/guide/) from gitlab team.
 * Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
 * Very practical guide about [Work/Life balance](https://wemake.services/meta/rsdp/work-life-balance) in remote work.
+* a16z Podcast: [How Crypto Startup School Went Remote - Andreessen Horowitz](https://a16z.com/2020/03/14/a16z-podcast-how-crypto-startup-school-went-remote/)
 
 
 ## Dashboards, Maps, Aggregations, Noteworthy articles
 
-* The popular [medium article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) with 40M views.
-* https://www.worldometers.info/coronavirus/#countries
+* The popular [medium article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) with 40M views and its [continuation](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
+* https://www.worldometers.info/coronavirus/
 * John Hopkin's University interactive map on virus: https://coronavirus.jhu.edu/map.html
 * Daily updated page with statistics (and references!) and other advices: https://ourworldindata.org/coronavirus
+* Google's [special page](https://www.google.com/covid19/) about coronavirus
 
 ### More links 
 
 * https://www.erasmusmagazine.nl/en/2020/03/14/unique-discovery-in-erasmus-mc-antibody-against-corona/
 * https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1
-* https://www.reddit.com/r/datascience/comments/fieuqo/open_covid19_dataset/
-* https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/
 * https://jamanetwork.com/journals/jama/fullarticle/2762130
 * https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext
 * https://www.livescience.com/new-coronavirus-compare-with-flu.html
