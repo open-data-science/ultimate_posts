@@ -13,41 +13,80 @@ We followed some rules, which we find adequate and which are based on the common
 
 ## Learning and enlightning others
 
-### Vox's article covering basics on coronavirus
+Briefing:
+
+* Coronavirus is somehow similar to common cold: spreads throw air or surfaces, causes dry caugh and pneumonia on late stages.
+* Despite being similar, it is much more contagious, because people are not even partially immune (yet).
+* Danger comes from late stages and overloaded healthcare system.
+* Diagnostics is hard, requires special tests.
+* Most threatening is exponential (or viral) growth. Each carrier is able to infect ~2.5 ([source](https://twitter.com/AdamJKucharski/status/1239146318301483009)) people.
+* More dangerous to elderly people.
+* There are 2 strategies exploited by governments: letting build 'herd immunity' by quarantining older people and restraining all population, to flatten the curve to fight healthcare system overload.
+* Other danger comes from panic and spread of misinformation (or censorship of that information by government): check for the fake news and trustworthness of the source.
+* There is probability that the humanity will be infected and build immunity.
+
+### <a name="whoadvice"></a>WHO's advice for the public
+
+WHO stands for World Health Organization and that's one organization you can trust in terms of health recommendations (it's like Open Data Science, but about Health 😉).
+
+* Wash your hands better: use alcohol-based liqud or soap, wash your hands deliberately, like surgeons in the movies do. 
+* Wash your hands more frequently: adopt a habit of washing hands before having a meal and after coming home / to work.
+* Maintain social distancing: stay away from people sneezing or coughing. 
+* Avoid touching your face, nose, mouth  and eyes. 
+* Practise respiratory hygiene: cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. [WHO Source](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+* Common thin face masks are not effective to protect from getting infected ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)). 
+
+#### Vox's article covering basics on coronavirus
 
 Link: [Vox](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine)
 
-### Interactive article on how virus spreads
+### Why exponential growth is so dangerous
+
+##### Interactive article on how virus spreads
 
 Kevin Simler's outbreak interactive demo shows and teaches from the case of single person how virus spreads.
 
 [Project website](https://www.meltingasphalt.com/interactive/outbreak/) 
 Link: [Github](https://github.com/kevinsimler/outbreak), Node JS 
 
-### Videos
+##### Washington Post's article with demo
+
+Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
+##### Korean cluster's Reuter's inforgrafics
+
+Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
+
+##### DmitrySerg's spread simulation project
+
+Link: [Project Github](https://github.com/DmitrySerg/COVID-19)
+
+##### 📹  Videos
 
 * [The Coronavirus Explained & What You Should Do](https://youtu.be/BtN-goy9VOY) by Kurzgesagt
 * [Exponential growth and epidemics](https://youtu.be/Kas0tIxDvrg) by 3Blue1Brown
 
-### Washington Post's article with demo
-
-Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
-
-## Korean cluster's Reuter's inforgrafics
-
-Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
-
-## Pornhub's insights on traffic
+##### Pornhub's insights on traffic
 
 Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
-## DmitrySerg's spread simulation project
+## What you can do about it
 
-Link: [Project Github](https://github.com/DmitrySerg/COVID-19)
+1. Follow [WHO's advice](#whoadvice) to lower your chances of getting infecting.
+2. Stay inside, switch to remote work if possible.
+3 . Spread the word about the pandemia, share trustworthy information
 
-## Projects you can take part in:
+## What you can do (as data scientists and active community members):
 
-There are some projects, in which any dear reader can take part. It even might be a good opportunity to learn something new.
+Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
+
+
+### Flatternthecurve
+
+This website is also community-driven, you can help in any way: verifiyng information or translating the content.
+
+Website: [Link](https://www.flattenthecurve.com).
+Contribution guidelines: [github](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md).
 
 ### folding@home coronavirus-specific projects
 
@@ -82,25 +121,20 @@ Links:
 * Now classic 37signal's book [Remote](https://basecamp.com/books/remote) about remote work culture and how to build it.
 
 
-## Sources:
+## Dashboards, Maps, Aggregations, Noteworthy articles
 
-### General 
+* The popular [medium article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) with 40M views.
+* https://www.worldometers.info/coronavirus/#countries
+* John Hopkin's University interactive map on virus: https://coronavirus.jhu.edu/map.html
+* Daily updated page with statistics (and references!) and other advices: https://ourworldindata.org/coronavirus
+
+### More links 
 
 * https://www.erasmusmagazine.nl/en/2020/03/14/unique-discovery-in-erasmus-mc-antibody-against-corona/
 * https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1
-* https://twitter.com/AdamJKucharski/status/1239146318301483009
-* https://twitter.com/Bershidsky/status/1239488197719199744
 * https://www.reddit.com/r/datascience/comments/fieuqo/open_covid19_dataset/
 * https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/
 * https://jamanetwork.com/journals/jama/fullarticle/2762130
 * https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext
 * https://www.livescience.com/new-coronavirus-compare-with-flu.html
-* https://m.facebook.com/100000780957774/posts/2821974184505252/
 * https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/
-* https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
-
-### Aggregations
-* https://www.worldometers.info/coronavirus/#countries
-* https://coronavirus.jhu.edu/map.html
-* https://ourworldindata.org/coronavirus
-* https://www.flattenthecurve.com
