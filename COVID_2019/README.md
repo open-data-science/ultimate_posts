@@ -1,6 +1,13 @@
 # Ultimate post on Coronavirus for @opendatascience telegram channel 
 
-Dear readers and subscribers, we would have ignored coronavirus theme completely, wasn't it for 64% of you who asked for at least some information to be posted.
+Contents:
+
+1. [Learning and enlightning others](#whatiscovid)
+2. [WHO's advice for the public](#whoadvice)
+3. [What you can do about it](#whatyoucando)
+4. [Remote work](#remotework)
+
+Dear readers and subscribers, we would have ignored coronavirus (COVID-2019) theme completely, wasn't it for 64% of you who asked for at least some information to be posted.
 
 So we came up with rather big and thorouful post, available as a GitHub page, so you can submit your pull requests with updates / additions to the information provided.
 
@@ -11,7 +18,7 @@ We followed some rules, which we find adequate and which are based on the common
 3. Biases and distributions should be taken into account: raw information is not that representative and can misguide opinions.
 4. If appliable, information should be actionable — readers should get a clear picture of what they can do after reading it, not just get upset or worried.
 
-## Learning and enlightning others
+## <a name="whatiscovid"></a>Learning and enlightning others
 
 Briefing:
 
@@ -74,13 +81,13 @@ Link: [Project Github](https://github.com/DmitrySerg/COVID-19)
 
 Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
-## What you can do about it
+## <a name="whatyoucando"></a>What you can do about it
 
 1. Follow [WHO's advice](#whoadvice) to lower your chances of getting infecting.
 2. Stay inside, switch to remote work if possible.
 3 . Spread the word about the pandemia, share trustworthy information
 
-# So what you can do (as data scientists and active community members):
+## What you can do (as data scientists and active community members):
 
 Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
 
@@ -138,7 +145,7 @@ You can do some competitions on kaggle
 - [Free Gitkraken Pro](https://www.gitkraken.com/pro-for-a-cure), most popular and powerfull git GUI manager
 
 
-## Remote work
+## <a name="remotework"></a>Remote work
 
 Some of us will spend more time working remotely. We all have different backgrounds and trivial information might be valuable for people just starting to work remotely.
 Remote work due to the quarantine or self-isolation may seem challenging at first, but there is nothing to be afraid of. We collected some articles and FAQs which will help to transit to remote mode.
