@@ -85,7 +85,7 @@ Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
 1. Follow [WHO's advice](#whoadvice) to lower your chances of getting infecting.
 2. Stay inside, switch to remote work if possible.
-3 . Spread the word about the pandemia, share trustworthy information
+3. Spread the word about the pandemia, share trustworthy information.
 
 ## What you can do (as data scientists and active community members):
 
