@@ -166,6 +166,7 @@ Links:
 * John Hopkin's University interactive map on virus: https://coronavirus.jhu.edu/map.html
 * Daily updated page with statistics (and references!) and other advices: https://ourworldindata.org/coronavirus
 * Google's [special page](https://www.google.com/covid19/) about coronavirus
+* Routitude [COVID-19 real-time dashboard with interactive map](https://www.routitude.com/)
 
 ### More links 
 
