@@ -53,31 +53,31 @@ WHO stands for World Health Organization and that's one organization you can tru
 
 ### Why exponential growth is so dangerous
 
-##### Interactive article on how virus spreads
+#### Interactive article on how virus spreads
 
 Kevin Simler's outbreak interactive demo shows and teaches from the case of single person how virus spreads.
 
 [Project website](https://www.meltingasphalt.com/interactive/outbreak/) 
 Link: [Github](https://github.com/kevinsimler/outbreak), Node JS 
 
-##### Washington Post's article with demo
+#### Washington Post's article with demo
 
 Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
-##### Korean cluster's Reuter's inforgrafics
+#### Korean cluster's Reuter's inforgrafics
 
 Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
 
-##### DmitrySerg's spread simulation project
+#### DmitrySerg's spread simulation project
 
 Link: [Project Github](https://github.com/DmitrySerg/COVID-19)
 
-##### 📹  Videos
+#### 📹  Videos
 
 * [The Coronavirus Explained & What You Should Do](https://youtu.be/BtN-goy9VOY) by Kurzgesagt
 * [Exponential growth and epidemics](https://youtu.be/Kas0tIxDvrg) by 3Blue1Brown
 
-##### Pornhub's insights on traffic
+#### Pornhub's insights on traffic
 
 Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
@@ -167,6 +167,7 @@ Links:
 * Daily updated page with statistics (and references!) and other advices: https://ourworldindata.org/coronavirus
 * Google's [special page](https://www.google.com/covid19/) about coronavirus
 * Routitude [COVID-19 real-time dashboard with interactive map](https://www.routitude.com/)
+* [Five things to help stop the spread of coronavirus](https://twitter.com/i/events/1239712380373708800) by twitter
 
 ### More links 
 
