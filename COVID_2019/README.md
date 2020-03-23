@@ -64,6 +64,10 @@ Link: [Github](https://github.com/kevinsimler/outbreak), Node JS
 
 Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
+#### Visualization 'How the Virus Got Out' by The New York Times
+
+Link: [NYTimes](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
+
 #### Korean cluster's Reuter's inforgrafics
 
 Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
@@ -106,6 +110,12 @@ What: Donate your GPU power to help researchers develop drug against COVID-2019
 Link: [Discussion on Reddit](https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/)
 
 or you can do it with 
+
+### Browse Scientific Articles about Covid-19 & SARS-CoV-2 with SciBERT-NLI
+
+Covid-19 Browser is an interactive experimental tool leveraging a SOTA language model to search relevant content inside the COVID-19 Open Research Dataset (CORD-19) recently published by the White House and its research partners.
+
+Link: [Github](https://github.com/gsarti/covid-papers-browser)
 
 ### [boinc](http://boinc.bakerlab.org/) project on [rosseta@home](http://boinc.bakerlab.org/rosetta/)
 
