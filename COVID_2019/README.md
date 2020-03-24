@@ -95,6 +95,11 @@ Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
 Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
 
+### Github's blog post on open collaboration projects
+
+Lot's of initiatives including those not covered by current post. 
+
+Link: [Github's Blog](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)
 
 ### Flatternthecurve
 
