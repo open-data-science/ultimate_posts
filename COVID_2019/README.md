@@ -9,39 +9,39 @@ Contents:
 
 Dear readers and subscribers, we would have ignored coronavirus (COVID-2019) theme completely, wasn't it for 64% of you who asked for at least some information to be posted.
 
-So we came up with rather big and thorouful post, available as a GitHub page, so you can submit your pull requests with updates / additions to the information provided.
+So we came up with rather big and thorough post, available as a GitHub page, so you can submit your pull requests with updates / additions to the information provided.
 
 We followed some rules, which we find adequate and which are based on the common sense and hope that all the contributors will comply with them:
 
 1. Provided information should be correct, better if it is verifiable.
 2. Source should be provided not to spread fake news data.
 3. Biases and distributions should be taken into account: raw information is not that representative and can misguide opinions.
-4. If appliable, information should be actionable — readers should get a clear picture of what they can do after reading it, not just get upset or worried.
+4. If applicable, information should be actionable — readers should get a clear picture of what they can do after reading it, not just get upset or worried.
 
-## <a name="whatiscovid"></a>Learning and enlightning others
+## <a name="whatiscovid"></a>Learning and enlightening others
 
 Briefing:
 
-* Coronavirus is somehow similar to common cold: spreads throw air or surfaces, causes dry caugh and pneumonia on late stages.
+* Coronavirus is somehow similar to common cold: spreads throw air or surfaces, causes dry cough and pneumonia on late stages.
 * Despite being similar, it is much more contagious, because people are not even partially immune (yet).
 * Danger comes from late stages and overloaded healthcare system.
 * Diagnostics is hard, requires special tests.
 * Most threatening is exponential (or viral) growth. Each carrier is able to infect ~2.5 ([source](https://twitter.com/AdamJKucharski/status/1239146318301483009)) people.
 * More dangerous to elderly people.
-* There are 2 strategies exploited by governments: letting build 'herd immunity' by quarantining older people and restraining all population, to flatten the curve to fight healthcare system overload.
-* Other danger comes from panic and spread of misinformation (or censorship of that information by government): check for the fake news and trustworthness of the source.
+* There are 2 strategies exploited by governments: letting build 'herd immunity' by quarantining older people and restraining all population, to flatten the curve to fight healthcare system overload. The concept of curve flattening is [criticized](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727) due to possible overestimating the capacity of the healthcare system.
+* Other danger comes from panic and spread of misinformation (or censorship of that information by government): check for the fake news and trustworthiness of the source.
 * There is probability that the humanity will be infected and build immunity.
 * Maps and sources of spread often do not take into account availability of tests ([why it matters](https://twitter.com/Bershidsky/status/1239488197719199744)) thus richer countries tend to have more diagnosed cases, thus, GDP correlation to cases per capita matters with 0.6 for Kendall and 0.8 for Spearman ([Post in russian](https://vk.com/wall66559_77852), [data](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200311-sitrep-51-covid-19.pdf) [sources](https://docs.google.com/spreadsheets/d/1nUny3LRZKxxaC0Q8XGIAaBlgd8kZAQysvLX0E93-Ens/edit#gid=0)).
- 
+
 
 ### <a name="whoadvice"></a>WHO's advice for the public
 
 WHO stands for World Health Organization and that's one organization you can trust in terms of health recommendations (it's like Open Data Science, but about Health 😉).
 
-* Wash your hands better: use alcohol-based liqud or soap, wash your hands deliberately, like surgeons in the movies do. 
+* Wash your hands better: use alcohol-based liquid or soap, wash your hands deliberately, like surgeons in the movies do. 
 * Wash your hands more frequently: adopt a habit of washing hands before having a meal and after coming home / to work.
 * Maintain social distancing: stay away from people sneezing or coughing. 
-* Avoid touching your face, nose, mouth  and eyes. 
+* Avoid touching your face, nose, mouth and eyes. 
 * Practise respiratory hygiene: cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. [WHO Source](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 * Common thin face masks are not effective to protect from getting infected ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)). 
 
@@ -68,7 +68,7 @@ Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/coron
 
 Link: [NYTimes](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
 
-#### Korean cluster's Reuter's inforgrafics
+#### Korean cluster's Reuter's infographics
 
 Link: [Reuter's  site](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
 
@@ -101,9 +101,9 @@ Lot's of initiatives including those not covered by current post.
 
 Link: [Github's Blog](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)
 
-### Flatternthecurve
+### Flattenthecurve
 
-Ultimate website is also community-driven, you can help in any way: verifiyng information or translating the content. This is very good entry point to get information about COVID-19 (US specific information mostly but anyway!)
+Ultimate website is also community-driven, you can help in any way: verifiyng information or translating the content. Despite being named after [controversial concept](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727), it is very good entry point to get information about COVID-19 (US specific information mostly but anyway!) 
 
 Website: [Link](https://www.flattenthecurve.com).
 Contribution guidelines: [github](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md).
@@ -144,7 +144,7 @@ Note: CT scan detection might be ineffective for COVID detection, because pneumo
 Project 1: [Github](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 Project 2: [Github](https://github.com/ieee8023/covid-chestxray-dataset)
 
-### There is some datasets and competitions abouth COVID-19 on Kaggle
+### There is some datasets and competitions about COVID-19 on Kaggle
 
 You can do some competitions on kaggle 
 
@@ -155,7 +155,7 @@ You can do some competitions on kaggle
 
 [All related itmes on kaggle by covid19 tag](https://www.kaggle.com/tags/covid19)
 
-### If you did some work related on covid-19, don't be shy to use opportunity get free tools
+### If you did some work related on COVID-19, don't be shy to use opportunity: get free tools
 
 - [Free Gitkraken Pro](https://www.gitkraken.com/pro-for-a-cure), most popular and powerfull git GUI manager
 
@@ -178,7 +178,7 @@ Links:
 
 * The popular [medium article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) with 40M views and its [continuation](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 * https://www.worldometers.info/coronavirus/
-* John Hopkin's University interactive map on virus: https://coronavirus.jhu.edu/map.html
+* Johns Hopkins University interactive map on virus: https://coronavirus.jhu.edu/map.html
 * Daily updated page with statistics (and references!) and other advices: https://ourworldindata.org/coronavirus
 * Google's [special page](https://www.google.com/covid19/) about coronavirus
 * Routitude [COVID-19 real-time dashboard with interactive map](https://www.routitude.com/)
