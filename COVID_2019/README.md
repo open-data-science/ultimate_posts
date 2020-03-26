@@ -183,6 +183,7 @@ Links:
 * Google's [special page](https://www.google.com/covid19/) about coronavirus
 * Routitude [COVID-19 real-time dashboard with interactive map](https://www.routitude.com/)
 * [Five things to help stop the spread of coronavirus](https://twitter.com/i/events/1239712380373708800) by twitter
+* Johns Hopkins University county-level dataset with >300 variables - a.o., demographics, employment, climate, transit, and healthcare for ML #covid19 research: https://link.medium.com/N2azyHrq94)
 
 ### More links 
 
