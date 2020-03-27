@@ -133,6 +133,7 @@ Unified transcoding tool and cli for covid-19 related national and international
 Link: [Github](https://github.com/ggbaro/covid-health-ita)
 
 - [Johns Hopkins University dataset](https://github.com/CSSEGISandData/COVID-19)
+  * [Clone of Johns Hopkins University dataset with details on Russia](https://github.com/grwlf/COVID-19_plus_Russia) and a [related upstream issue](https://github.com/CSSEGISandData/COVID-19/issues/1262)
 - [Alternative Crowd Sourced Dataset](https://github.com/open-covid-19/data) and its reddit [discussion](https://www.reddit.com/r/datascience/comments/fieuqo/open_covid19_dataset/)
 
 ### Building CT scan pneumonia detector
