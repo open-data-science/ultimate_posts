@@ -60,6 +60,12 @@ Kevin Simler's outbreak interactive demo shows and teaches from the case of sing
 [Project website](https://www.meltingasphalt.com/interactive/outbreak/) 
 Link: [Github](https://github.com/kevinsimler/outbreak), Node JS 
 
+#### Alternative look on fatality and mortality rate
+
+English translation of article acquiring 1 mln views in russian.
+
+Link: [Medium](https://medium.com/@ipestov/coronavirus-a-dangerous-illusion-of-mortality-e02fd3c7c7e9)
+
 #### Washington Post's article with demo
 
 Link: [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
