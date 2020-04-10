@@ -101,6 +101,12 @@ Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
 Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
 
+
+### Welltory's Wearables Open Data Research
+
+Popular description: [ProductHunt](https://www.producthunt.com/posts/covid-19-wearables-open-data-research)
+Github: [repo](https://github.com/Welltory/hrv-covid19)
+
 ### Github's blog post on open collaboration projects
 
 Lot's of initiatives including those not covered by current post. 
@@ -183,6 +189,7 @@ Links:
 
 ## Dashboards, Maps, Aggregations, Noteworthy articles
 
+* YouTube [livestream](https://www.youtube.com/watch?v=SLV1B5Lzy48&feature=youtu.be) with real time updated statistics.
 * The popular [medium article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) with 40M views and its [continuation](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 * https://www.worldometers.info/coronavirus/
 * Johns Hopkins University interactive map on virus: https://coronavirus.jhu.edu/map.html
