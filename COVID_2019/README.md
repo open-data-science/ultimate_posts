@@ -50,6 +50,7 @@ WHO stands for World Health Organization and that's one organization you can tru
 - [Vox](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine)
 - [Here’s what coronavirus does to the body by NatGeo](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/)
 - [Flatternthecurve](https://www.flattenthecurve.com)
+- [How does coronavirus kill](https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes)
 
 ### Why exponential growth is so dangerous
 
