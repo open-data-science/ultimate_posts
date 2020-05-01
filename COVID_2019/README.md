@@ -102,6 +102,11 @@ Link: [Page](https://www.pornhub.com/insights/corona-virus)
 
 Most of the information about COVID-2019 causes panic and just leaves you with anxiety. But there are some projects, in which any dear data scientist reader can take part and *actually do something* about the virus (and that's worth repeating), apart from following advices to lower spread of virus and informing others with reliable sources. 
 
+### When Will COVID-19 End (Data-Driven Estimation of End Dates)
+
+Independent research focused on predicting end of the pandemic.
+
+Link: https://ddi.sutd.edu.sg/
 
 ### Welltory's Wearables Open Data Research
 
