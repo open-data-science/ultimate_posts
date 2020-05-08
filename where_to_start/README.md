@@ -43,7 +43,7 @@ Link: https://hackmd.io/@chanderA/aiguide
 
 
 
-P-value, explained, one more time with demos
+### P-value, explained, one more time with demos
 
 Article includes not only great explanation of what is #pvalue, but how it works and how it can be used to make a correct conclusions.
 
@@ -51,7 +51,7 @@ Link:https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-
 
 
 
-Probabilistic foundations of econometrica: part 1
+### Probabilistic foundations of econometrica: part 1
 
 Great intro into #statistics basics.
 
@@ -59,7 +59,7 @@ Link: https://freakonometrics.hypotheses.org/57649
 
 
 
-Implementing Transfer Learning in PyTorch
+### Implementing Transfer Learning in PyTorch
 
 Fine-tuning and feature extraction with PyTorch
 
@@ -67,7 +67,7 @@ Link: https://medium.com/analytics-vidhya/transfer-learning-in-pytorch-f7736598b
 
 
 
-​​🥇Parameter optimization in neural networks. 
+### ​​🥇Parameter optimization in neural networks. 
 
 Play with three interactive visualizations and develop your intuition for optimizing model parameters.
 
@@ -75,7 +75,7 @@ Link: https://www.deeplearning.ai/ai-notes/optimization/
 
 
 
-Yet another good intro into difference between artificial neural network and biological one.
+### Yet another good intro into difference between artificial neural network and biological one.
 
 If you're getting started in Data Science, you need to start with the basic building building block of Neural Networks - a Perceptron. To understand what it is, there's this good link to get started with.
 
@@ -83,16 +83,17 @@ Link: https://towardsdatascience.com/the-differences-between-artificial-and-biol
 
 
 
-Time series basics
+### Time series basics
 
 Time series — data, with points having timestamps. Some might think that #timeseries are mostly used in algorithmic trading, but they often used in malware detection, network data analysis or any other field, dealing with some flow of time-labeled data. These two resources provide deep and easy #introduction into #TS analysis.
 
 Github: https://github.com/akshaykapoor347/Time-series-modeling-basics
+
 Data Camp presentation: https://s3.amazonaws.com/assets.datacamp.com/production/course_5702/slides/chapter3.pdf
 
 
 
-​​Bayesian Statistics explained to Beginners in Simple English
+### ​​Bayesian Statistics explained to Beginners in Simple English
 
 Now some #entrylevel material, which still might be useful to review, because repetitio est mater studiorum.
 
@@ -100,14 +101,14 @@ Link: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners
 
 
 
-Free online ODS.AI course on ML
+### Free online ODS.AI course on ML
 
 Another great free course will start on February 11. Taught through #Kaggle notebooks and competitions.
 
 Link: https://www.kaggle.com/general/77771
 
 
-Introduction for machine learning for coders
+### Introduction for machine learning for coders
 
 Fast.ai launching new course for coders, having at least 1 year of experience. This is a practical-oriented course covering wide range of areas: classical Machine Learning with Random Forest and Gradient Decent, Regularization, NLP, Embeddings,
 
@@ -116,7 +117,7 @@ Course itself: http://course.fast.ai/ml
 
 
 
-Hitchhiker’s guide to Exploratory Data Analysis
+### Hitchhiker’s guide to Exploratory Data Analysis
 
 Exploratory Data Analysis — stage of finding out distribution of the data, volume, number  of missing values and all the other characteristics of the available dataset.
 
@@ -126,7 +127,7 @@ Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-ana
 
 
 
-🎓CS224W: Machine Learning with Graphs
+### 🎓CS224W: Machine Learning with Graphs
 
 Great course from #Stanford. You still on time to jump at studying from one of the best schools.
 
@@ -135,17 +136,18 @@ Students are introduced to machine learning techniques and data mining tools apt
 Topics include: robustness and fragility of food webs and financial markets; algorithms for the World Wide Web; graph neural networks and representation learning; identification of functional modules in biological networks; disease outbreak detection.
 
 Link: http://cs224w.stanford.edu
+
 Videos link: http://snap.stanford.edu/class/cs224w-videos-2019/
 
 
-​​GANs from Scratch 1: A deep introduction. 
+### ​​GANs from Scratch 1: A deep introduction. 
 
 Great introduction and tutorial. With code in PyTorch and TensorFlow
 
 Link: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
 
 
-Classification and Loss Evaluation - Softmax and Cross Entropy Loss
+### Classification and Loss Evaluation - Softmax and Cross Entropy Loss
 
 Nice notes on softmax cross entropy loss and how to implement it in numpy.
 
@@ -153,7 +155,7 @@ Link: https://deepnotes.io/softmax-crossentropy
 
 
 
-Simple comic on how #ML works from #Google
+### Simple comic on how #ML works from #Google
 
 Make sure you save the link (or this message) to show it to people without great technical background for it is one of the best and clear explanations there is.
 
@@ -165,14 +167,14 @@ Google has released a new open and free machine learning course. The course is b
 https://developers.google.com/machine-learning/crash-course/
 
 
-Microsoft’s AI course is now open and free
+### Microsoft’s AI course is now open and free
 
 Microsoft Professional Program for Artificial Intelligence — previously being available only to employees is now available at edx.org for free. Program includes 10 courses from basic python programming to deep learning and reinforcement learning disciplines.
 
-https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+Link: https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
 
-New free Deep Learning course from #FastAI
+### New free Deep Learning course from #FastAI
 
 This course shows how to build a state of the art deep learning model from scratch. 
 FastAI’s mission is to make neural nets uncool again by teaching as many people from as many backgrounds as possible. 
@@ -180,14 +182,14 @@ FastAI’s mission is to make neural nets uncool again by teaching as many peopl
 Link: https://www.fast.ai/2019/06/28/course-p2v3/
 
 
-🔥🎓New FastAI's free online course on NLP
+### 🔥🎓New FastAI's free online course on NLP
 
 It is called «A Code-First Introduction to Natural Language Processing». All code & videos are available for free online, make sure you save this link into bookmarks and at least review the content, because it provides opportunity not only to learn new skills, but to actually understand how NLP works.
 
 Link: https://www.fast.ai/2019/07/08/fastai-nlp/
 
 
-Overview of 10 Stanford's Data Science courses
+### Overview of 10 Stanford's Data Science courses
 
 A survivor’s guide to Artificial Intelligence courses at Stanford
 
@@ -195,7 +197,7 @@ Link: https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford
 
 
 
-🎓Amazon have released its Free Machine Learning #course.
+### 🎓Amazon have released its Free Machine Learning #course.
 
 Course consits of 30+ digital ML classes totaling 45+ hours, aiming for improving skills of different roles: from Data Platform Engineer to Business Decision Maker.
 
@@ -203,21 +205,21 @@ Link: https://aws.amazon.com/ru/training/learning-paths/machine-learning/
 
 
 
-Udacity has published a github repo for the Deep Reinforcement Learning Nanodegree program
+### Udacity has published a github repo for the Deep Reinforcement Learning Nanodegree program
 
 Repo: https://github.com/udacity/deep-reinforcement-learning
 Nanodegree: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
 
 
 
-All the vector algebra you need for understanding neural networks
+### All the vector algebra you need for understanding neural networks
 
 Article contains great explanations and description of matrix calculus you need to know and understand to really grok neural networks.
 
 Link: https://explained.ai/matrix-calculus/index.html
 
 
-Great collection and reviews for top online machine and deep learning courses 
+### Great collection and reviews for top online machine and deep learning courses 
 
 Post covers short reviews and suggested order in which course could be taken, along with the links at great prerequisites.
 
@@ -225,7 +227,7 @@ Link: http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-r
 
 
 
-Free eBook from Stanford: Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
+### Free eBook from Stanford: Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
 
 Base material you need to understand how neural networks and other #ML algorithms work.
 
