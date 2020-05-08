@@ -18,24 +18,14 @@ Best resources to study Data Science /Machine Learning
 11. Series of #ML lectures from Columbia Universite will be published on youtube. YouTuve Playlist: https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA Syllabus: https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 
 
-Great collections of Data Science learning materials
+### Great collections of Data Science learning materials
 
 The list includes free books and online courses on range of DS-related disciplines:
 * Machine learning (#ML)
 * Deep Learning (#DL)
 * Reinforcement learning (#RL)
 * #NLP
-
-Great collections of Data Science learning materials
-
-The list includes free books and online courses on range of DS-related disciplines:
-
-Machine learning (#ML)
-Deep Learning (#DL)
-Reinforcement learning (#RL)
-#NLP
-
-Tutorials on #Keras, #Tensorflow, #Torch, #PyTorch, #Theano
+* Tutorials on #Keras, #Tensorflow, #Torch, #PyTorch, #Theano
 
 Notable researchers, papers and even #datasets. It is a great place to start reviewing your knowledge or learning something new.
 
@@ -47,7 +37,7 @@ Link: https://hackmd.io/@chanderA/aiguide
 
 Article includes not only great explanation of what is #pvalue, but how it works and how it can be used to make a correct conclusions.
 
-Link:https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/
+Link: https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/
 
 
 
@@ -122,6 +112,7 @@ Course itself: http://course.fast.ai/ml
 Exploratory Data Analysis — stage of finding out distribution of the data, volume, number  of missing values and all the other characteristics of the available dataset.
 
 Part 1: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
+
 Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d
 
 
