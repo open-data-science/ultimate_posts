@@ -52,6 +52,12 @@ WHO stands for World Health Organization and that's one organization you can tru
 - [Flatternthecurve](https://www.flattenthecurve.com)
 - [How does coronavirus kill](https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes)
 
+### What happens next
+
+Interactive showcases: will there be the second wave of infection and what happens in the nearest future.
+
+Link: https://ncase.me/covid-19/
+
 ### Why exponential growth is so dangerous
 
 #### Interactive article on how virus spreads
