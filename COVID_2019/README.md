@@ -184,7 +184,7 @@ You can do some competitions on kaggle
 
 - [Free Gitkraken Pro](https://www.gitkraken.com/pro-for-a-cure), most popular and powerfull git GUI manager
 
-### COVID-19 Simulations
+## COVID-19 Simulations
 
 These simulations/modeling/scenario-based-forecasting projects include various methods and techniques; some are more accurate in terms of the implemented epidemiological model in use, whilst others offer faster modeling at the expense of standardization and in return interpreted result soundness and integrity.
 
