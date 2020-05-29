@@ -32,6 +32,10 @@ Notable researchers, papers and even #datasets. It is a great place to start rev
 Link: https://hackmd.io/@chanderA/aiguide
 
 
+### Long-term map
+
+Link: https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff
+
 
 ### P-value, explained, one more time with demos
 
