@@ -1,5 +1,9 @@
 # ODS #wheretostart recommendations
 
+This article collects public knowledge on how to start learning field commonly addressed as Data Science. We are adressing what is called DS, what spheres and disciplined are covered by it and suggest recipes for stepping on path of getting familiar with this field.
+
+Data Science is a term describing everything related to processing, storing and mining any information. This includes different disciplines, cources and spheres of our life. General undestanding (helicopter overview) can be derived from reading Google's brilliant [web comic](https://cloud.google.com/products/ai/ml-comic-1/) (~5 min) and reading great Vas3k's post [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) (~15 min).
+
 
 There is now way to be taught to be data scientist, but you can learn how to become one yourself. There is no right way, but there is a way, which was adopted by a number of data scientists and it goes through online courses (MOOC). Following suggested order is not required, but might be helpful.
 
