@@ -231,3 +231,11 @@ Link: http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-r
 Base material you need to understand how neural networks and other #ML algorithms work.
 
 Link: https://web.stanford.edu/~boyd/vmls/
+
+
+
+### Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
+
+This book provides basic knowledge about using NumPy, Pandas, Matplotlib and Scikit-Learn with Jupyter Notebook for beginners from scratch. The link below leads to a repository containing the entire book and training materials.
+
+Link: https://github.com/jakevdp/PythonDataScienceHandbook
