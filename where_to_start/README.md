@@ -239,3 +239,10 @@ Link: https://web.stanford.edu/~boyd/vmls/
 This book provides basic knowledge about using NumPy, Pandas, Matplotlib and Scikit-Learn with Jupyter Notebook for beginners from scratch. The link below leads to a repository containing the entire book and training materials.
 
 Link: https://github.com/jakevdp/PythonDataScienceHandbook
+
+
+### Computer Science learning materials
+
+Extensive and thorough guide on learning computer science.
+
+Link: https://teachyourselfcs.com
