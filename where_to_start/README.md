@@ -1,7 +1,12 @@
 # ODS #wheretostart recommendations
 
 
-There is now way to be taught to be data scientist, but you can learn how to become one yourself. There is no right way, but there is a way, which was adopted by a number of data scientists and it goes through online courses (MOOC). Following suggested order is not required, but might be helpful.
+There is now way to be taught to be data scientist, but you can learn how to become one yourself. There is no right way, but there is a way, which was adopted by a number of data scientists and it lies with online courses (MOOC). With this article we aim at anwering those common questions:
+
+1. Where to start with data science?
+2. How to become a data scientist?
+
+We are looking up at the awesome resource [Teach Yourself CS](https://teachyourselfcs.com) and aim at providing useful and actionable insights on how to learn skills and get knowledge to get onto data-driven way.
 
 Best resources to study Data Science /Machine Learning
 
