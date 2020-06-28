@@ -6,7 +6,13 @@ There is now way to be taught to be data scientist, but you can learn how to bec
 1. Where to start with data science?
 2. How to become a data scientist?
 
-We are looking up at the awesome resource [Teach Yourself CS](https://teachyourselfcs.com) and aim at providing useful and actionable insights on how to learn skills and get knowledge to get onto data-driven way.
+We are looking up at the awesome resource [Teach Yourself CS](https://teachyourselfcs.com) and aim at providing useful and actionable insights on how to learn skills and get knowledge to get onto data-driven way. However if you don't like our guide there are some alternatives included into the appendix.
+
+## TL;DR:
+
+We assume that you have at least some background with programming, if not, you can address the aforementioned [Teach Yourself CS](https://teachyourselfcs.com) to learn basics of [programming](https://teachyourselfcs.com/#programming) and [algorithms](https://teachyourselfcs.com/#algorithms).
+
+Study all subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career 🚀.
 
 Best resources to study Data Science /Machine Learning
 
@@ -228,3 +234,8 @@ Link: http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-r
 Base material you need to understand how neural networks and other #ML algorithms work.
 
 Link: https://web.stanford.edu/~boyd/vmls/
+
+
+## Alternative guides
+
+1. [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff). By Andrew Lukyanenko.
