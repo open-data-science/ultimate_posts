@@ -12,11 +12,33 @@ We are looking up at the awesome resource [Teach Yourself CS](https://teachyours
 
 We assume that you have at least some background with programming, if not, you can address the aforementioned [Teach Yourself CS](https://teachyourselfcs.com) to learn basics of [programming](https://teachyourselfcs.com/#programming) and [algorithms](https://teachyourselfcs.com/#algorithms).
 
-Study all subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career 🚀.
+Then you can get at least an overview of these topics, ideally studying suggested courses and/or watching videos.
+
+0. General Math for Data Science
+Why study? 
+Courses:
+0. Statistics
+Why study? You need general understanding on how statistics works. 
+Courses:
+1. General Machine Learning. 
+Why study? General concepts of how computers can generalize. 
+Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning)
+2. Data Engeneering.
+Why study? You need to know how industry leaders are processing Terabytes of data, collect and store them.
+Cources: 
+3. Natural Language Processing.
+Why study? 
+Cources: 
+4. Computer Vision.
+Why study? 
+Cources: 
+5. (*) Graph Learning
+6. 
+
 
 Best resources to study Data Science /Machine Learning
 
-1. Andrew Ng’s Machine Learning (https://www.coursera.org/learn/machine-learning).
+1. [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning).
 2. Geoffrey Hinton’s Neural Networks for Machine Learning (https://www.coursera.org/learn/neural-networks).
 3. Probabilistic Graphical Models specialisation on Coursera from Stanford (https://www.coursera.org/specializations/probabilistic-graphical-models).
 4. Learning from data by Caltech (https://work.caltech.edu/telecourse.html). 
