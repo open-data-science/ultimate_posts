@@ -8,62 +8,77 @@ There is now way to be taught to be data scientist, but you can learn how to bec
 
 We are looking up at the awesome resource [Teach Yourself CS](https://teachyourselfcs.com) and aim at providing useful and actionable insights on how to learn skills and get knowledge to get onto data-driven way. However if you don't like our guide there are some alternatives included into the appendix.
 
+### Buzzwords disclaimer
+
+We want to provide most inclusive and open information, therefore we do not explicitly distinquish skills between what one would name different job specialisations: ML engineers, Data engineers, Deep Learning specialists, Data Analytics etc.
+
 ## TL;DR:
 
 We assume that you have at least some background with programming, if not, you can address the aforementioned [Teach Yourself CS](https://teachyourselfcs.com) to learn basics of [programming](https://teachyourselfcs.com/#programming) and [algorithms](https://teachyourselfcs.com/#algorithms).
 
 Then you can get at least an overview of these topics, ideally studying suggested courses and/or watching videos.
 
-0. General Math for Data Science
-Why study? 
+#### General Math for Data Science
+
+Why matters: you need to know basic stuff to understand what's happening on the low level. 
+
+Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+
+Web page: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+
+#### Statistics
+
+Why matters: research can go wrong if you don't check for fundamental flaws.
 Courses:
-0. Statistics
-Why study? You need general understanding on how statistics works. 
-Courses:
-1. General Machine Learning. 
-Why study? General concepts of how computers can generalize. 
-Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning)
-2. Data Engeneering.
-Why study? You need to know how industry leaders are processing Terabytes of data, collect and store them.
-Cources: 
-3. Natural Language Processing.
-Why study? 
-Cources: 
-4. Computer Vision.
-Why study? 
-Cources: 
-5. (*) Graph Learning
-6. 
+
+#### General Machine Learning. 
+
+Why matters: general concepts of how computers can generalize. 
+Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning), [CS229 @ Stanford](http://cs229.stanford.edu/index.html), [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
+
+#### Data Engeneering.
+
+Why matters: You need to know how industry leaders are processing Terabytes of data, collect and store them.
+Courses: 
+
+#### General Neural Networks
+
+Why matters: neural networks tend to be unreasonably effective sometimes.
+Courses: [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+
+#### Natural Language Processing.
+
+Why matters: NLP allows to percieve sentiment, extract knowledge, perform search and machine translation.
+Course: [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
+
+#### Computer Vision.
+
+Why matters: CV allows to classify images, segment them, identify objects and process visual information. 
+Course: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) from Stanford
+
+#### Reinforcement learning.
+
+Why matters: Reinforcement Learning or RL covers self-driving / autonomous vehicles as well as any other acting agents in any environment.
+Courses: [UCL Course on RL](https://www.davidsilver.uk/teaching/), [Udacity's course Repo](https://github.com/udacity/deep-reinforcement-learning) & [nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+
+#### Graph Learning
+
+Why matters: different proceses can be described with graphs: from social connections to food analysis.
+Courses: [CS224 Stanford's course](http://cs224w.stanford.edu)
 
 
-Best resources to study Data Science /Machine Learning
-
-1. [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning).
-2. Geoffrey Hinton’s Neural Networks for Machine Learning (https://www.coursera.org/learn/neural-networks).
-3. Probabilistic Graphical Models specialisation on Coursera from Stanford (https://www.coursera.org/specializations/probabilistic-graphical-models).
-4. Learning from data by Caltech (https://work.caltech.edu/telecourse.html). 
-5. CS229 from Stanford by Andrew Ng (http://cs229.stanford.edu/materials.html)
-6. CS224d: Deep Learning for Natural Language Processing from Stanford (http://cs224d.stanford.edu/syllabus.html).
-7. CS231n: Convolutional Neural Networks for Visual Recognition from Stanford (http://cs231n.stanford.edu/syllabus.html).
-8. Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville (http://www.deeplearningbook.org/).
-9. Machine Learning Yearning by Andrew Ng (http://www.mlyearning.org/). 
-10. http://deeplearning.net/tutorial/
-11. Series of #ML lectures from Columbia Universite will be published on youtube. YouTuve Playlist: https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA Syllabus: https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 
 
-### Great collections of Data Science learning materials
+## Some common questions answered
 
-The list includes free books and online courses on range of DS-related disciplines:
-* Machine learning (#ML)
-* Deep Learning (#DL)
-* Reinforcement learning (#RL)
-* #NLP
-* Tutorials on #Keras, #Tensorflow, #Torch, #PyTorch, #Theano
+There are some common pitfals and 'hacks' which any data scientist will encounter. Below is a cherry-picked collection of great articles on the matters:
 
-Notable researchers, papers and even #datasets. It is a great place to start reviewing your knowledge or learning something new.
 
-Link: https://hackmd.io/@chanderA/aiguide
+### ​​Bayesian Statistics explained to Beginners in Simple English
 
+Now some #entrylevel material, which still might be useful to review, because repetitio est mater studiorum.
+
+Link: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/
 
 
 ### P-value, explained, one more time with demos
@@ -72,6 +87,11 @@ Article includes not only great explanation of what is #pvalue, but how it works
 
 Link: https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/
 
+### ​​🥇Parameter optimization in neural networks. 
+
+Play with three interactive visualizations and develop your intuition for optimizing model parameters.
+
+Link: https://www.deeplearning.ai/ai-notes/optimization/
 
 
 ### Probabilistic foundations of econometrica: part 1
@@ -79,7 +99,6 @@ Link: https://www.freecodecamp.org/news/what-is-statistical-significance-p-value
 Great intro into #statistics basics.
 
 Link: https://freakonometrics.hypotheses.org/57649
-
 
 
 ### Implementing Transfer Learning in PyTorch
@@ -90,20 +109,11 @@ Link: https://medium.com/analytics-vidhya/transfer-learning-in-pytorch-f7736598b
 
 
 
-### ​​🥇Parameter optimization in neural networks. 
-
-Play with three interactive visualizations and develop your intuition for optimizing model parameters.
-
-Link: https://www.deeplearning.ai/ai-notes/optimization/
-
-
-
 ### Yet another good intro into difference between artificial neural network and biological one.
 
 If you're getting started in Data Science, you need to start with the basic building building block of Neural Networks - a Perceptron. To understand what it is, there's this good link to get started with.
 
 Link: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
-
 
 
 ### Time series basics
@@ -115,13 +125,13 @@ Github: https://github.com/akshaykapoor347/Time-series-modeling-basics
 Data Camp presentation: https://s3.amazonaws.com/assets.datacamp.com/production/course_5702/slides/chapter3.pdf
 
 
+### Hitchhiker’s guide to Exploratory Data Analysis
 
-### ​​Bayesian Statistics explained to Beginners in Simple English
+Exploratory Data Analysis — stage of finding out distribution of the data, volume, number  of missing values and all the other characteristics of the available dataset.
 
-Now some #entrylevel material, which still might be useful to review, because repetitio est mater studiorum.
+Part 1: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
 
-Link: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/
-
+Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d
 
 
 ### Free online ODS.AI course on ML
@@ -140,35 +150,12 @@ Course itself: http://course.fast.ai/ml
 
 
 
-### Hitchhiker’s guide to Exploratory Data Analysis
-
-Exploratory Data Analysis — stage of finding out distribution of the data, volume, number  of missing values and all the other characteristics of the available dataset.
-
-Part 1: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
-
-Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d
-
-
-
-
-### 🎓CS224W: Machine Learning with Graphs
-
-Great course from #Stanford. You still on time to jump at studying from one of the best schools.
-
-Students are introduced to machine learning techniques and data mining tools apt to reveal insights on the social, technological, and natural worlds, by means of studying their underlying network structure and interconnections. 
-
-Topics include: robustness and fragility of food webs and financial markets; algorithms for the World Wide Web; graph neural networks and representation learning; identification of functional modules in biological networks; disease outbreak detection.
-
-Link: http://cs224w.stanford.edu
-
-Videos link: http://snap.stanford.edu/class/cs224w-videos-2019/
-
-
 ### ​​GANs from Scratch 1: A deep introduction. 
 
 Great introduction and tutorial. With code in PyTorch and TensorFlow
 
 Link: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
+
 
 
 ### Classification and Loss Evaluation - Softmax and Cross Entropy Loss
@@ -186,16 +173,6 @@ Make sure you save the link (or this message) to show it to people without great
 Link: https://cloud.google.com/products/ai/ml-comic-1/
 
 
-Google has released a new open and free machine learning course. The course is built around Google's TensorFlow API, which is now one step closer to becoming an industry standard.
-
-https://developers.google.com/machine-learning/crash-course/
-
-
-### Microsoft’s AI course is now open and free
-
-Microsoft Professional Program for Artificial Intelligence — previously being available only to employees is now available at edx.org for free. Program includes 10 courses from basic python programming to deep learning and reinforcement learning disciplines.
-
-Link: https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
 
 ### New free Deep Learning course from #FastAI
@@ -206,6 +183,7 @@ FastAI’s mission is to make neural nets uncool again by teaching as many peopl
 Link: https://www.fast.ai/2019/06/28/course-p2v3/
 
 
+
 ### 🔥🎓New FastAI's free online course on NLP
 
 It is called «A Code-First Introduction to Natural Language Processing». All code & videos are available for free online, make sure you save this link into bookmarks and at least review the content, because it provides opportunity not only to learn new skills, but to actually understand how NLP works.
@@ -213,51 +191,13 @@ It is called «A Code-First Introduction to Natural Language Processing». All c
 Link: https://www.fast.ai/2019/07/08/fastai-nlp/
 
 
-### Overview of 10 Stanford's Data Science courses
-
-A survivor’s guide to Artificial Intelligence courses at Stanford
-
-Link: https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 
 
-
-### 🎓Amazon have released its Free Machine Learning #course.
-
-Course consits of 30+ digital ML classes totaling 45+ hours, aiming for improving skills of different roles: from Data Platform Engineer to Business Decision Maker.
-
-Link: https://aws.amazon.com/ru/training/learning-paths/machine-learning/ 
-
-
-
-### Udacity has published a github repo for the Deep Reinforcement Learning Nanodegree program
-
-Repo: https://github.com/udacity/deep-reinforcement-learning
-Nanodegree: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
-
-
-
-### All the vector algebra you need for understanding neural networks
-
-Article contains great explanations and description of matrix calculus you need to know and understand to really grok neural networks.
-
-Link: https://explained.ai/matrix-calculus/index.html
-
-
-### Great collection and reviews for top online machine and deep learning courses 
-
-Post covers short reviews and suggested order in which course could be taken, along with the links at great prerequisites.
-
-Link: http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
-
-
-
-### Free eBook from Stanford: Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
-
-Base material you need to understand how neural networks and other #ML algorithms work.
-
-Link: https://web.stanford.edu/~boyd/vmls/
 
 
 ## Alternative guides
 
 1. [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff). By Andrew Lukyanenko.
+2. [LEARNING DEEP LEARNING - MY TOP-FIVE LIST](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/).
+3. [A survivor’s guide to Artificial Intelligence courses at Stanford](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html).
+4. [Resources collection](https://hackmd.io/@chanderA/aiguide)
