@@ -24,17 +24,8 @@ Then you can get at least an overview of these topics, ideally studying suggeste
 
 #### General Math for Data Science
 
-<<<<<<< HEAD
 Why matters: you need to know basic stuff to understand what's happening on the low level. 
-=======
-### Long-term map
-
-Link: https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff
-
->>>>>>> 2ef3cfc26bd368ff2ba75ea82eea6162d6be15db
-
 Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
-
 Web page: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
 #### Statistics
