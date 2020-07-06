@@ -22,50 +22,62 @@ We assume that you have at least some background with programming, if not, you c
 
 Then you can get at least an overview of these topics, ideally studying suggested courses and/or watching videos.
 
+
+
 #### General Math for Data Science
 
-Why matters: you need to know basic stuff to understand what's happening on the low level. 
+Why matters: you need to know basic stuff to understand what's happening on the low level
+
 Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+
 Web page: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
 #### Statistics
 
 Why matters: research can go wrong if you don't check for fundamental flaws.
+
 Courses:
 
 #### General Machine Learning. 
 
 Why matters: general concepts of how computers can generalize. 
+
 Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning), [CS229 @ Stanford](http://cs229.stanford.edu/index.html), [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
 
 #### Data Engeneering.
 
 Why matters: You need to know how industry leaders are processing Terabytes of data, collect and store them.
+
 Courses: 
 
 #### General Neural Networks
 
 Why matters: neural networks tend to be unreasonably effective sometimes.
+
 Courses: [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
 #### Natural Language Processing.
 
 Why matters: NLP allows to percieve sentiment, extract knowledge, perform search and machine translation.
+
 Course: [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
 
 #### Computer Vision.
 
 Why matters: CV allows to classify images, segment them, identify objects and process visual information. 
+
 Course: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) from Stanford
 
 #### Reinforcement learning.
 
 Why matters: Reinforcement Learning or RL covers self-driving / autonomous vehicles as well as any other acting agents in any environment.
+
 Courses: [UCL Course on RL](https://www.davidsilver.uk/teaching/), [Udacity's course Repo](https://github.com/udacity/deep-reinforcement-learning) & [nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
 #### Graph Learning
 
 Why matters: different proceses can be described with graphs: from social connections to food analysis.
+
 Courses: [CS224 Stanford's course](http://cs224w.stanford.edu)
 
 
@@ -148,6 +160,7 @@ Link: https://www.kaggle.com/general/77771
 Fast.ai launching new course for coders, having at least 1 year of experience. This is a practical-oriented course covering wide range of areas: classical Machine Learning with Random Forest and Gradient Decent, Regularization, NLP, Embeddings,
 
 Link: http://www.fast.ai/2018/09/26/ml-launch/
+
 Course itself: http://course.fast.ai/ml
 
 
