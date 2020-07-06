@@ -184,6 +184,17 @@ You can do some competitions on kaggle
 
 - [Free Gitkraken Pro](https://www.gitkraken.com/pro-for-a-cure), most popular and powerfull git GUI manager
 
+## COVID-19 Simulations
+
+These simulations/modeling/scenario-based-forecasting projects include various methods and techniques; some are more accurate in terms of the implemented epidemiological model in use, whilst others offer faster modeling at the expense of standardization and in return interpreted result soundness and integrity.
+
+- [Simulation of the COVID-19 outbreak using standard epidemiological models](https://github.com/jckantor/covid-19)
+- [An agent-based simulation of corona and other viruses in python](https://github.com/paulvangentcom/python_corona_simulation)
+- [Simulation of the COVID 19 pandemic based on the SIR model](https://github.com/transentis/sim-covid-19)
+- [Models of COVID-19 outbreak trajectories and hospital demand](https://covid19-scenarios.org/)
+- [COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions](https://github.com/institutefordiseasemodeling/covasim)
+- [COVID-19 (Coronavirus) Spread Simulator](https://github.com/midudev/covid-19-spread-simulator)
+- [Covid-19 Modeling](https://github.com/Logic-gate/Covid19-Modeling)
 
 ## <a name="remotework"></a>Remote work
 

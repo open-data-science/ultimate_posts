@@ -1,5 +1,9 @@
 # ODS #wheretostart recommendations
 
+This article collects public knowledge on how to start learning field commonly addressed as Data Science. We are adressing what is called DS, what spheres and disciplined are covered by it and suggest recipes for stepping on path of getting familiar with this field.
+
+Data Science is a term describing everything related to processing, storing and mining any information. This includes different disciplines, cources and spheres of our life. General undestanding (helicopter overview) can be derived from reading Google's brilliant [web comic](https://cloud.google.com/products/ai/ml-comic-1/) (~5 min) and reading great Vas3k's post [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) (~15 min).
+
 
 There is now way to be taught to be data scientist, but you can learn how to become one yourself. There is no right way, but there is a way, which was adopted by a number of data scientists and it lies with online courses (MOOC). With this article we aim at anwering those common questions:
 
@@ -20,7 +24,14 @@ Then you can get at least an overview of these topics, ideally studying suggeste
 
 #### General Math for Data Science
 
+<<<<<<< HEAD
 Why matters: you need to know basic stuff to understand what's happening on the low level. 
+=======
+### Long-term map
+
+Link: https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff
+
+>>>>>>> 2ef3cfc26bd368ff2ba75ea82eea6162d6be15db
 
 Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
@@ -191,11 +202,17 @@ It is called «A Code-First Introduction to Natural Language Processing». All c
 Link: https://www.fast.ai/2019/07/08/fastai-nlp/
 
 
+### Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
+
+This book provides basic knowledge about using NumPy, Pandas, Matplotlib and Scikit-Learn with Jupyter Notebook for beginners from scratch. The link below leads to a repository containing the entire book and training materials.
+
+Link: https://github.com/jakevdp/PythonDataScienceHandbook
 
 
 
 
 ## Alternative guides
+
 
 1. [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff). By Andrew Lukyanenko.
 2. [LEARNING DEEP LEARNING - MY TOP-FIVE LIST](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/).
