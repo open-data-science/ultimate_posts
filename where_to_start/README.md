@@ -32,19 +32,24 @@ Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least S
 
 Web page: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
+Playlists:
+
+* [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&feature=share) by Imperial College London
+* [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) by Dr. Trefor Bazett
+
 #### Statistics
 
 Why matters: research can go wrong if you don't check for fundamental flaws.
 
 Courses:
 
-#### General Machine Learning. 
+#### General Machine Learning
 
 Why matters: general concepts of how computers can generalize. 
 
 Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning), [CS229 @ Stanford](http://cs229.stanford.edu/index.html), [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
 
-#### Data Engeneering.
+#### Data Engeneering
 
 Why matters: You need to know how industry leaders are processing Terabytes of data, collect and store them.
 
@@ -56,19 +61,19 @@ Why matters: neural networks tend to be unreasonably effective sometimes.
 
 Courses: [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
-#### Natural Language Processing.
+#### Natural Language Processing
 
 Why matters: NLP allows to percieve sentiment, extract knowledge, perform search and machine translation.
 
 Course: [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
 
-#### Computer Vision.
+#### Computer Vision
 
 Why matters: CV allows to classify images, segment them, identify objects and process visual information. 
 
 Course: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) from Stanford
 
-#### Reinforcement learning.
+#### Reinforcement learning
 
 Why matters: Reinforcement Learning or RL covers self-driving / autonomous vehicles as well as any other acting agents in any environment.
 
@@ -144,11 +149,10 @@ Data Camp presentation: https://s3.amazonaws.com/assets.datacamp.com/production/
 Exploratory Data Analysis — stage of finding out distribution of the data, volume, number  of missing values and all the other characteristics of the available dataset.
 
 Part 1: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
-
 Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d
 
 
-### Free online ODS.AI course on ML
+### Free online [ODS.AI](http://ods.ai) course on ML
 
 Another great free course will start on February 11. Taught through #Kaggle notebooks and competitions.
 
@@ -165,7 +169,7 @@ Course itself: http://course.fast.ai/ml
 
 
 
-### ​​GANs from Scratch 1: A deep introduction. 
+### ​​GANs from Scratch 1: A deep introduction
 
 Great introduction and tutorial. With code in PyTorch and TensorFlow
 
