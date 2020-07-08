@@ -49,7 +49,7 @@ Why matters: general concepts of how computers can generalize.
 
 Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning), [CS229 @ Stanford](http://cs229.stanford.edu/index.html), [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
 
-##q
+#### Data Engeneering
 
 Why matters: You need to know how industry leaders are processing Terabytes of data, collect and store them.
 
