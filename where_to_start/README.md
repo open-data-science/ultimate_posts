@@ -47,7 +47,14 @@ Courses:
 
 Why matters: general concepts of how computers can generalize. 
 
-Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning), [CS229 @ Stanford](http://cs229.stanford.edu/index.html), [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
+Courses: 
+
+* ODS Machine Learning Course [course page](https://mlcourse.ai), [Kaggle Intro post](https://www.kaggle.com/general/77771)
+* [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [CS229 @ Stanford](http://cs229.stanford.edu/index.html)
+* [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
+* [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
+* [Introduction for machine learning for coders](http://course.fast.ai/ml) with an [intro post](http://www.fast.ai/2018/09/26/ml-launch/)
 
 #### Data Engeneering
 
@@ -150,22 +157,6 @@ Exploratory Data Analysis — stage of finding out distribution of the data, vol
 
 Part 1: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
 Part 2: https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d
-
-
-### Free online [ODS.AI](http://ods.ai) course on ML
-
-Another great free course will start on February 11. Taught through #Kaggle notebooks and competitions.
-
-Link: https://www.kaggle.com/general/77771
-
-
-### Introduction for machine learning for coders
-
-Fast.ai launching new course for coders, having at least 1 year of experience. This is a practical-oriented course covering wide range of areas: classical Machine Learning with Random Forest and Gradient Decent, Regularization, NLP, Embeddings,
-
-Link: http://www.fast.ai/2018/09/26/ml-launch/
-
-Course itself: http://course.fast.ai/ml
 
 
 
