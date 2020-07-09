@@ -77,6 +77,7 @@ Why matters: NLP allows to percieve sentiment, extract knowledge, perform search
 Courses: 
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
 * [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) by fast.ai
+* [Coursera NLP specialization](https://www.coursera.org/learn/language-processing#syllabus)
 
 #### Computer Vision
 
