@@ -54,7 +54,7 @@ Courses:
 * [CS229 @ Stanford](http://cs229.stanford.edu/index.html)
 * [COMS W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
 * [Google's crash-course on ML](https://developers.google.com/machine-learning/crash-course/)
-* [Introduction for machine learning for coders](http://course.fast.ai/ml) with an [intro post](http://www.fast.ai/2018/09/26/ml-launch/)
+* (Recommended for coders with at least 1 year of experience) [Introduction for machine learning for coders](http://course.fast.ai/ml) with an [intro post](http://www.fast.ai/2018/09/26/ml-launch/)
 
 #### Data Engeneering
 
@@ -62,17 +62,21 @@ Why matters: You need to know how industry leaders are processing Terabytes of d
 
 Courses: [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
 
-#### General Neural Networks
+#### General Neural Networks / Deep Learning
 
 Why matters: neural networks tend to be unreasonably effective sometimes.
 
-Courses: [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+Courses: 
+* [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html) with intro [blog post](https://www.fast.ai/2019/06/28/course-p2v3/)
 
 #### Natural Language Processing
 
 Why matters: NLP allows to percieve sentiment, extract knowledge, perform search and machine translation.
 
-Course: [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
+Courses: 
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
+* [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) by fast.ai
 
 #### Computer Vision
 
@@ -91,7 +95,6 @@ Courses: [UCL Course on RL](https://www.davidsilver.uk/teaching/), [Udacity's co
 Why matters: different proceses can be described with graphs: from social connections to food analysis.
 
 Courses: [CS224 Stanford's course](http://cs224w.stanford.edu)
-
 
 
 
@@ -182,23 +185,6 @@ Make sure you save the link (or this message) to show it to people without great
 
 Link: https://cloud.google.com/products/ai/ml-comic-1/
 
-
-
-
-### New free Deep Learning course from #FastAI
-
-This course shows how to build a state of the art deep learning model from scratch. 
-FastAI’s mission is to make neural nets uncool again by teaching as many people from as many backgrounds as possible. 
-
-Link: https://www.fast.ai/2019/06/28/course-p2v3/
-
-
-
-### 🔥🎓New FastAI's free online course on NLP
-
-It is called «A Code-First Introduction to Natural Language Processing». All code & videos are available for free online, make sure you save this link into bookmarks and at least review the content, because it provides opportunity not only to learn new skills, but to actually understand how NLP works.
-
-Link: https://www.fast.ai/2019/07/08/fastai-nlp/
 
 
 ### Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
