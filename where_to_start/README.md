@@ -53,7 +53,7 @@ Courses: [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine
 
 Why matters: You need to know how industry leaders are processing Terabytes of data, collect and store them.
 
-Courses: 
+Courses: [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
 
 #### General Neural Networks
 
