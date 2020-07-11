@@ -19,7 +19,7 @@ We want to provide most inclusive and open information, therefore we do not expl
 
 We assume that you have at least some background with programming, if not, you can address the aforementioned [Teach Yourself CS](https://teachyourselfcs.com) to learn basics of [programming](https://teachyourselfcs.com/#programming) and [algorithms](https://teachyourselfcs.com/#algorithms).
 
-Then you can get at least an overview of these topics, ideally studying suggested courses and/or watching videos.
+Then you can get at least an overview of these topics, ideally studying suggested courses and/or watching videos. If you need any learning path, you can address the [suggested](learning_path_1.md) by our fellow community member or any other alternative articles at the end of the article.
 
 #### General Math for Data Science
 
@@ -28,6 +28,14 @@ Why matters: you need to know basic stuff to understand what's happening on the 
 Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
 Web page: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+
+Courses:
+* [Single variable calculus](https://www.coursera.org/learn/single-variable-calculus)
+* [Differentiation calculus](https://www.coursera.org/learn/differentiation-calculus)
+* [Integration calculus](https://www.coursera.org/learn/integration-calculus)
+* [Calculus applications](https://www.coursera.org/learn/applications-calculus)
+* [Linear algebra course](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0)
+* [Probability theory](https://www.edx.org/course/introduction-to-probability-0)
 
 Playlists:
 
@@ -39,6 +47,7 @@ Playlists:
 Why matters: research can go wrong if you don't check for fundamental flaws.
 
 Courses:
+* [Course from Stanford](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
 
 #### General Machine Learning
 
@@ -67,7 +76,6 @@ Courses:
 Why matters: NLP allows to percieve sentiment, extract knowledge, perform search and machine translation.
 
 Courses: 
-
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) from Stanford
 * [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) by fast.ai
 * [Coursera NLP specialization](https://www.coursera.org/learn/language-processing#syllabus)
@@ -82,25 +90,57 @@ Course: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs
 
 Why matters: Reinforcement Learning or RL covers self-driving / autonomous vehicles as well as any other acting agents in any environment.
 
-Courses: [UCL Course on RL](https://www.davidsilver.uk/teaching/), [Udacity's course Repo](https://github.com/udacity/deep-reinforcement-learning) & [nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+Courses: 
+* [UCL Course on RL](https://www.davidsilver.uk/teaching/)
+* [Udacity's course Repo](https://github.com/udacity/deep-reinforcement-learning) & [nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
 #### Graph Learning
 
-Why matters: different proceses can be described with graphs: from social connections to food analysis.
+Why matters: graphs are the best way to model relationship in your data (friendships, particle interactions, object positions, etc.).
 
-Courses: [CS224 Stanford's course](http://cs224w.stanford.edu)
+Courses:
+* [CS224 Stanford's course](http://cs224w.stanford.edu)
+* [Learning on Non-Euclidean Domains](https://vistalab-technion.github.io/cs236605/lectures/lecture_11/)
 
-## Data Engineering
+Surveys: 
+* [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
+* [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
+
+Practice: 
+* [PyTorch-Geometric tutorials](https://pytorch-geometric.readthedocs.io/en/latest/notes/create_gnn.html)
+* [Deep Graph Library tutorials](https://docs.dgl.ai/tutorials/models/index.html)
+
+
+
+#### Data Engineering
 
 Data Engineering is about converting a Data Science research from thoughts, insights and research into a production project. It means efficiently using computers and building reliable distributed architectures to perform data conversion, ETL, Batch and Stream processing.
 
-Books: [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321), [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002), [Release It!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/), [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/), [Streaming Data](https://www.amazon.com/Streaming-Data-Understanding-real-time-pipeline/dp/1617292281), [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164), [Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853)
+Books: 
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+* [Release It!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
+* [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/)
+* [Streaming Data](https://www.amazon.com/Streaming-Data-Understanding-real-time-pipeline/dp/1617292281)
+* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+* [Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853)
 
-Blogs: [Confluent](https://www.confluent.io/blog/), [Distributed systems for fun and profit](http://book.mixu.net/distsys/ebook.html), [Netflix TechBlog](https://netflixtechblog.com/), [AWS Big Data Blog](https://aws.amazon.com/ru/blogs/big-data/), [Top 50 Statistics Blogs of 2019](https://www.thebestcolleges.org/rankings/best-statistics-blogs/)
+Blogs: 
+* [Confluent](https://www.confluent.io/blog/)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/ebook.html)
+* [Netflix TechBlog](https://netflixtechblog.com/)
+* [AWS Big Data Blog](https://aws.amazon.com/ru/blogs/big-data/)
+* [Top 50 Statistics Blogs of 2019](https://www.thebestcolleges.org/rankings/best-statistics-blogs/)
+
+
+Courses: 
+* [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
+* [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g)
+* [Big Data Specialization](https://www.coursera.org/specializations/big-data)
+* Importing Data in Python ([Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1), [Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2))
 
 Certifications: [Top 13 data engineer and data architect certifications | CIO](https://www.cio.com/article/3395879/top-14-data-engineer-and-data-architect-certifications.html)
 
-Courses: [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data), [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g), [Big Data Specialization](https://www.coursera.org/specializations/big-data), Importing Data in Python ([Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1), [Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2))
 
 ## Some common questions answered
 
@@ -149,6 +189,13 @@ Time series — data, with points having timestamps. Some might think that #time
 Github: https://github.com/akshaykapoor347/Time-series-modeling-basics
 
 Data Camp presentation: https://s3.amazonaws.com/assets.datacamp.com/production/course_5702/slides/chapter3.pdf
+
+### Repo on signals filtering
+
+It is better to study Kalman filter in advance because knowing about it can save lots of time.
+
+Github: [Link](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
 
 ### Hitchhiker’s guide to Exploratory Data Analysis
 
