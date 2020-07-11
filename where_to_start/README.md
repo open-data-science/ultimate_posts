@@ -118,7 +118,7 @@ Data Engineering is about converting a Data Science research from thoughts, insi
 
 Books: 
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-* [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+* [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 * [Release It!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
 * [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/)
 * [Streaming Data](https://www.amazon.com/Streaming-Data-Understanding-real-time-pipeline/dp/1617292281)
@@ -139,7 +139,8 @@ Courses:
 * [Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * Importing Data in Python ([Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1), [Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2))
 
-Certifications: [Top 13 data engineer and data architect certifications | CIO](https://www.cio.com/article/3395879/top-14-data-engineer-and-data-architect-certifications.html)
+Certifications: 
+* [Top 13 data engineer and data architect certifications | CIO](https://www.cio.com/article/3395879/top-14-data-engineer-and-data-architect-certifications.html)
 
 
 ## Some common questions answered
