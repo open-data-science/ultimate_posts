@@ -70,6 +70,7 @@ Courses:
 
 * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 * [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html) with intro [blog post](https://www.fast.ai/2019/06/28/course-p2v3/)
+* [Deep Learning with Catalyst](https://github.com/catalyst-team/dl-course)
 
 #### Natural Language Processing
 
