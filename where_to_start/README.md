@@ -230,6 +230,12 @@ This book provides basic knowledge about using NumPy, Pandas, Matplotlib and Sci
 
 Link: https://github.com/jakevdp/PythonDataScienceHandbook
 
+### Hands on ML notebook series
+
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+
+Link: https://github.com/ageron/handson-ml
+
 ## Alternative guides
 
 1. [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff). By Andrew Lukyanenko.
