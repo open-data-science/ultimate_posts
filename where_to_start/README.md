@@ -125,6 +125,7 @@ Books:
 * [Streaming Data](https://www.amazon.com/Streaming-Data-Understanding-real-time-pipeline/dp/1617292281)
 * [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853)
+* [Machine Learning Bookcamp](https://github.com/alexeygrigorev/mlbookcamp-code)
 
 Blogs: 
 * [Confluent](https://www.confluent.io/blog/)
