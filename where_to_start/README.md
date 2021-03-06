@@ -149,6 +149,12 @@ Certifications:
 
 There are some common pitfals and 'hacks' which any data scientist will encounter. Below is a cherry-picked collection of great articles on the matters:
 
+### Feature engineering and Selection: A Practical Approach
+
+Online book on how to work on feature engineering.
+
+Link: https://bookdown.org/max/FES/
+
 ### ​​Bayesian Statistics explained to Beginners in Simple English
 
 Now some #entrylevel material, which still might be useful to review, because repetitio est mater studiorum.
