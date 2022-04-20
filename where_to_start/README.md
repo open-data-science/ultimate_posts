@@ -23,7 +23,7 @@ Then you can get at least an overview of these topics, ideally studying suggeste
 
 #### General Math for Data Science
 
-Why matters: you need to know basic stuff to understand what's happening on the low level
+Why matters: you need to know fundamental math stuff to understand what's happening on the low level.
 
 Book: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
@@ -41,6 +41,12 @@ Playlists:
 
 * [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&feature=share) by Imperial College London
 * [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) by Dr. Trefor Bazett
+
+#### Computer Science and different courses on DS
+
+Why matters: you need to know how to code.
+
+Courses list: [Open Source Society University](https://ossu.firebaseapp.com/#/curriculum)
 
 #### Statistics
 
